@@ -57,7 +57,7 @@ typings/
 # next files
 .cache/
 .node_repl_history
-.next
+.next/
 public
 
 # Mac files
