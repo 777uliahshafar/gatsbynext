@@ -1,0 +1,24 @@
+{
+  "name": "next-starter-hello-world",
+  "private": true,
+  "description": "A simplified bare-bones starter for Next",
+  "version": "0.1.0",
+  "license": "0BSD",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.1.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.8"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.72",
+    "sass": "^1.72.0",
+    "typescript": "5.4.3"
+  }
+}
