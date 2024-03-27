@@ -56,7 +56,7 @@ typings/
 
 # next files
 .cache/
-.next/
+.next
 public
 
 # Mac files
